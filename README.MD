@@ -382,6 +382,16 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.shadadman/ksensor-core)](https://central.sonatype.com/artifact/io.github.shadadman/ksensor-core)
 > Live Sensors/States data from Android & iOS targets
 
+[KMP WorkManager](https://github.com/brewkits/kmpworkmanager) - Background task scheduling
+[![GitHub Repo stars](https://img.shields.io/github/stars/brewkits/kmpworkmanager?style=flat)](https://github.com/brewkits/kmpworkmanager)
+[![Maven Central](https://img.shields.io/maven-central/v/dev.brewkits/kmpworkmanager)](https://central.sonatype.com/artifact/dev.brewkits/kmpworkmanager)
+> A Kotlin Multiplatform library for background task scheduling on Android and iOS, with one-time and periodic tasks, constraints, and persistent task chains.
+
+[KHealth](https://github.com/shubhamsinghshubham777/KHealth) - Health data access
+[![GitHub Repo stars](https://img.shields.io/github/stars/shubhamsinghshubham777/KHealth?style=flat)](https://github.com/shubhamsinghshubham777/KHealth)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.shubhamsinghshubham777/khealth)](https://central.sonatype.com/artifact/io.github.shubhamsinghshubham777/khealth)
+> A Kotlin Multiplatform library providing a unified, type-safe API for Android Health Connect and Apple HealthKit on iOS and watchOS, with health record reads, writes, and permission management.
+
 ### 💉 Dependency Injection
 [Koin](https://github.com/InsertKoinIO/koin) - DI framework
 [![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat)](https://github.com/InsertKoinIO/koin)
@@ -868,6 +878,11 @@ Bluetooth in general has the same functionality for all platforms, e.g. connect 
 [![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.richeditor/richeditor-compose)](https://central.sonatype.com/artifact/com.mohamedrejeb.richeditor/richeditor-compose)
 > A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 
+[Compose Text Editor](https://github.com/Darkrock-Studios/ComposeTextEditor) - Rich text editor for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Darkrock-Studios/ComposeTextEditor?style=flat)](https://github.com/Darkrock-Studios/ComposeTextEditor)
+[![Maven Central](https://img.shields.io/maven-central/v/com.darkrockstudios/composetexteditor)](https://central.sonatype.com/artifact/com.darkrockstudios/composetexteditor)
+> A rich text editor built from scratch for Android, iOS, desktop, and web, with custom spans, efficient long-document editing, undo/redo, and addons for Markdown, spell checking, and find & replace.
+
 [Material Theme Preferences](https://github.com/softartdev/MaterialThemePrefs) Switching Dark/Light Material themes.
 [![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/MaterialThemePrefs?style=flat)](https://github.com/softartdev/MaterialThemePrefs)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.softartdev/material-theme-prefs)](https://central.sonatype.com/artifact/io.github.softartdev/material-theme-prefs)
@@ -1045,6 +1060,11 @@ your Compose apps.
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/landscapist.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%2520landscapist)
 > A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.
 
+[Crayfish](https://github.com/skydoves/crayfish) - Image cropper for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/crayfish?style=flat)](https://github.com/skydoves/crayfish)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/crayfish)](https://central.sonatype.com/artifact/com.github.skydoves/crayfish)
+> A Compose Multiplatform image cropper for Android, iOS, desktop, and web with memory-efficient region decoding, rotation, aspect ratio presets, and grid overlays.
+
 [colorpicker-compose](https://github.com/skydoves/colorpicker-compose): Color Picker library for Kotlin Multiplatform.
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/colorpicker-compose?style=flat)](https://github.com/skydoves/colorpicker-compose/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/colorpicker-compose.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%colorpicker-compose)
@@ -1164,6 +1184,16 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/compose-miuix-ui/miuix?style=flat)](https://github.com/compose-miuix-ui/miuix/stargazers)
 [![Maven Central](https://img.shields.io/maven-central/v/top.yukonga.miuix.kmp/miuix-ui)](https://search.maven.org/search?q=g:top.yukonga.miuix.kmp)
 > A shared UI library for Compose Multiplatform. Supports all platform targets. Provides components with Xiaomi HyperOS design style.
+
+[Waypoint](https://github.com/MohamedRejeb/compose-waypoint) - Product tours and feature showcases
+[![GitHub Repo stars](https://img.shields.io/github/stars/MohamedRejeb/compose-waypoint?style=flat)](https://github.com/MohamedRejeb/compose-waypoint)
+[![Maven Central](https://img.shields.io/maven-central/v/com.mohamedrejeb.waypoint/waypoint-core)](https://central.sonatype.com/artifact/com.mohamedrejeb.waypoint/waypoint-core)
+> A Compose Multiplatform library for guided product tours on Android, iOS, desktop, and web, with animated highlights, tooltips, interactive steps, automatic scrolling, and persistent hints.
+
+[ComposeShield](https://github.com/abdo-essam/ComposeShield) - Screen-capture protection
+[![GitHub Repo stars](https://img.shields.io/github/stars/abdo-essam/ComposeShield?style=flat)](https://github.com/abdo-essam/ComposeShield)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.abdo-essam/composeshield)](https://central.sonatype.com/artifact/io.github.abdo-essam/composeshield)
+> A Kotlin Multiplatform library for screen-capture prevention and detection on Android and iOS, with Compose and native UI integration, capture event streams, and app preview protection.
 
 ### 🎨 Graphics
 [MOKO Graphics](https://github.com/icerockdev/moko-graphics) - Graphics primitives
